@@ -7,6 +7,7 @@ function Gallery() {
     <h1>Gallery Page</h1>
   </div>
 
+  <div className="galleryBody">
   <div className="gallerySquare"></div>
   <div className="gallerySquare"></div>
   <div className="gallerySquare"></div>
@@ -19,6 +20,8 @@ function Gallery() {
   <div className="gallerySquare"></div>
   <div className="gallerySquare"></div>
   <div className="gallerySquare"></div>
+
+  </div>
 
   </>
   

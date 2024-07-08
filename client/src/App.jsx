@@ -14,8 +14,7 @@ function App() {
       <Navigations/>
       </div>
 
-      <div className="appBanner">
-      </div>
+      {/* <div className="appBanner"></div> */}
 
       <div>
       <Routes>
