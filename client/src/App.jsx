@@ -21,6 +21,7 @@ function App() {
           <Route path="/gallery" element={<Gallery/>}/>
       </Routes>
       </div>
+      <br/>
 
       <div className="appFooter"></div>
 
