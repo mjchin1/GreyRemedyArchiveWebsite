@@ -67,10 +67,10 @@ button:focus-visible {
   }
 }
 
-.galleryCard {
+.gallerySquare {
+  display: inline-flex;
   border: solid;
-  border-style: double;
-  border-width: thick;
+  border-width: thin;
   justify-content: space-between;
   height: 315px;
   width: 325px;
@@ -79,4 +79,20 @@ button:focus-visible {
   margin-right: 10px;
   margin-bottom: 20px;
   background: white;
+}
+
+.navBanner {
+  border: solid;
+  border-width: thin;
+  width: 95vw;
+  height: 50px;
+  margin: 0 auto;
+}
+
+.appBanner {
+  width: 95vw;
+  height: 400px;
+  border: solid;
+  border-width: thin;
+  margin: 0 auto;
 }

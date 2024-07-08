@@ -9,14 +9,19 @@ function App() {
 
   return (
     <>
-    <Navigations/>
 
-    <h1>Hello!</h1>
-    <div>
-    <Routes>
-        <Route path="/" element={<Gallery/>}/>
-    </Routes>
-    </div>
+      <div className="navBanner">
+      <Navigations/>
+      </div>
+
+      <div className="appBanner">
+      </div>
+
+      <div>
+      <Routes>
+          <Route path="/gallery" element={<Gallery/>}/>
+      </Routes>
+      </div>
 
     </>
   )
