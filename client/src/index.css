@@ -102,3 +102,10 @@ button:focus-visible {
   margin: 0 auto;
   padding-top: 30px;
 }
+
+.appFooter {
+  height: 400px;
+  width: 100vw;
+  border: solid;
+  border-width: thin;
+}

@@ -22,6 +22,8 @@ function App() {
       </Routes>
       </div>
 
+      <div className="appFooter"></div>
+
     </>
   )
 }
