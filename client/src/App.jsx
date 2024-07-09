@@ -11,6 +11,7 @@ function App() {
     <>
 
       <div className="navBanner">
+      <h2>LandingPage</h2>
       <Navigations/>
       </div>
 

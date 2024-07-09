@@ -94,8 +94,6 @@ button:focus-visible {
 }
 
 .navBanner {
-  border: solid;
-  border-width: thin;
   width: 96vw;
   height: 50px;
   margin: 0 auto;
@@ -122,4 +120,19 @@ button:focus-visible {
   border: solid;
   border-width: thin;
   margin: 0 auto;
+}
+nav {
+  display: flex;
+  align-items: end;
+}
+
+a {
+  color: black;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.navBanner {
+  display: inline-flex;
+  justify-content: space-between;
 }
