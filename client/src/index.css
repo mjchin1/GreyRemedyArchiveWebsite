@@ -124,6 +124,7 @@ button:focus-visible {
 nav {
   display: flex;
   align-items: end;
+  text-decoration: underline;
 }
 
 a {
@@ -135,4 +136,14 @@ a {
 .navBanner {
   display: inline-flex;
   justify-content: space-between;
+  padding-left: 20px;
+  padding-right: 20px;
+  width: 90vw;
+}
+
+.appHeading {
+  font-family: "Nixie One", system-ui;
+  font-size: 30px;
+  display: flex;
+  margin-top: 12px;
 }

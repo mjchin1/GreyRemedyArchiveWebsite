@@ -11,7 +11,7 @@ function App() {
     <>
 
       <div className="navBanner">
-      <h2>LandingPage</h2>
+      <h2 className="appHeading">Grey Remedy</h2>
       <Navigations/>
       </div>
 

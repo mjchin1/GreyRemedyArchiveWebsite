@@ -13,10 +13,6 @@ function Gallery() {
   return (
   <>
 
-  <div>
-    <h1>Gallery Page</h1>
-  </div>
-
   <div className="galleryBody">
   <img className="galleryImage" src={BrownVase1}></img>
   <img className="galleryImage" src={BrownVase2}></img>
