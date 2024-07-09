@@ -81,6 +81,18 @@ button:focus-visible {
   background: white;
 }
 
+.galleryImage {
+  display: inline-flex;
+  justify-content: space-between;
+  height: 260px;
+  width: 400px;
+  padding-top: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 20px;
+  background: white;
+}
+
 .navBanner {
   border: solid;
   border-width: thin;
@@ -98,7 +110,7 @@ button:focus-visible {
 }
 
 .galleryBody {
-  border: solid;
+  /* border: solid;  */
   margin: 0 auto;
   padding-top: 30px;
   width: 95vw;
