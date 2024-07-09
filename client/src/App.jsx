@@ -2,6 +2,8 @@ import { useState } from 'react'
 import './App.css'
 import { Routes, Route} from 'react-router-dom';
 import Gallery from './components/Gallery';
+import About from './components/About';
+import Press from './components/Press';
 import Navigations from './components/Navigations';
 
 
@@ -20,6 +22,8 @@ function App() {
       <div>
       <Routes>
           <Route path="/gallery" element={<Gallery/>}/>
+          <Route path="/about" element={<About/>}/>
+          <Route path="/press" element={<Press/>}/>
       </Routes>
       </div>
       <br/>
