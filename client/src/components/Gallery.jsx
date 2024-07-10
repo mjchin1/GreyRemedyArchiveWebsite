@@ -7,6 +7,13 @@ import BlackVase3 from '../assets/BlackVase3.jpg';
 import WhiteVase1 from '../assets/WhiteVase1.jpg';
 import WhiteVase2 from '../assets/WhiteVase2.jpg';
 import WhiteVase3 from '../assets/WhiteVase3.jpg';
+import WhiteBowls from '../assets/WhiteBowls.jpg';
+import WhiteMug from '../assets/WhiteMug.jpg';
+import WhitePlate from '../assets/WhitePlate.jpg';
+import BlackBowls from '../assets/BlackBowls.jpg';
+import incense from '../assets/incense.jpg';
+import WineCups from '../assets/WineCups.jpg';
+
 
 function Gallery() {
 
@@ -14,15 +21,22 @@ function Gallery() {
   <>
 
   <div className="galleryBody">
-  <img className="galleryImage" src={BrownVase1}></img>
-  <img className="galleryImage" src={BrownVase2}></img>
-  <img className="galleryImage" src={BrownVase3}></img>
   <img className="galleryImage" src={BlackVase1}></img>
   <img className="galleryImage" src={BlackVase2}></img>
   <img className="galleryImage" src={BlackVase3}></img>
+  <img className="galleryImage" src={WineCups}></img>
+  <img className="galleryImage" src={BlackBowls}></img>
+  <img className="galleryImage" src={incense}></img>
   <img className="galleryImage" src={WhiteVase1}></img>
   <img className="galleryImage" src={WhiteVase2}></img>
   <img className="galleryImage" src={WhiteVase3}></img>
+  <img className="galleryImage" src={WhiteBowls}></img>
+  <img className="galleryImage" src={WhiteMug}></img>
+  <img className="galleryImage" src={WhitePlate}></img>
+  <img className="galleryImage" src={BrownVase1}></img>
+  <img className="galleryImage" src={BrownVase2}></img>
+  <img className="galleryImage" src={BrownVase3}></img>
+
   </div>
 
   </>
