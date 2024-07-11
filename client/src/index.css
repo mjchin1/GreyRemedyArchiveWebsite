@@ -117,9 +117,8 @@ button:focus-visible {
 .appFooter {
   height: 400px;
   width: 95vw;
-  border: solid;
-  border-width: thin;
   margin: 0 auto;
+  background-color: #f2f2f2;
 }
 nav {
   display: flex;

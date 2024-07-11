@@ -28,7 +28,8 @@ function App() {
       </div>
       <br/>
 
-      <div className="appFooter"></div>
+      <div className="appFooter">
+      </div>
 
     </>
   )
