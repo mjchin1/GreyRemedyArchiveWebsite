@@ -13,6 +13,18 @@ import WhitePlate from '../assets/WhitePlate.jpg';
 import BlackBowls from '../assets/BlackBowls.jpg';
 import incense from '../assets/incense.jpg';
 import WineCups from '../assets/WineCups.jpg';
+import BlackBowls2 from '../assets/BlackBowls2.jpg';
+import BlackMug from '../assets/BlackMug.jpg';
+import BlackPlate from '../assets/BlackPlate.jpeg';
+import SpeckledSet from '../assets/SpeckledSet.jpg';
+import SpeckledSculpture from '../assets/SpeckledSculpture.jpg';
+import SpeckledMug1 from '../assets/SpeckledMug1.jpg';
+import SpeckledPlates from '../assets/SpeckledPlates.jpg';
+import SpeckledCupSet from '../assets/SpeckledCupSet.jpg';
+import SpeckledVase from '../assets/SpeckledVase.jpg';
+import SpeckledMug2 from '../assets/SpeckledMug2.jpg';
+import SpeckledPlaceSetting from '../assets/SpeckledPlaceSetting.jpg';
+import SpeckledJug from '../assets/SpeckledJug.jpg';
 
 
 function Gallery() {
@@ -27,12 +39,24 @@ function Gallery() {
   <img className="galleryImage" src={WineCups}></img>
   <img className="galleryImage" src={BlackBowls}></img>
   <img className="galleryImage" src={incense}></img>
+  <img className="galleryImage" src={BlackBowls2}></img>
+  <img className="galleryImage" src={BlackMug}></img>
+  <img className="galleryImage" src={BlackPlate}></img>
+  <img className="galleryImage" src={SpeckledSet}></img>
+  <img className="galleryImage" src={SpeckledSculpture}></img>
+  <img className="galleryImage" src={SpeckledMug1}></img>
+  <img className="galleryImage" src={SpeckledPlates}></img>
+  <img className="galleryImage" src={SpeckledCupSet}></img>
+  <img className="galleryImage" src={SpeckledVase}></img>
+  <img className="galleryImage" src={SpeckledMug2}></img>
+  <img className="galleryImage" src={SpeckledPlaceSetting}></img>
+  <img className="galleryImage" src={SpeckledJug}></img>
   <img className="galleryImage" src={WhiteVase1}></img>
   <img className="galleryImage" src={WhiteVase2}></img>
   <img className="galleryImage" src={WhiteVase3}></img>
   <img className="galleryImage" src={WhiteBowls}></img>
-  <img className="galleryImage" src={WhiteMug}></img>
   <img className="galleryImage" src={WhitePlate}></img>
+  <img className="galleryImage" src={WhiteMug}></img>
   <img className="galleryImage" src={BrownVase1}></img>
   <img className="galleryImage" src={BrownVase2}></img>
   <img className="galleryImage" src={BrownVase3}></img>
