@@ -6,7 +6,8 @@ export default function About() {
   return (
 
     <>
-      <h1>About</h1>
+    <br></br> <br></br>
+      <h1 className="heading">ABOUT</h1>
       <br></br> <br></br>
 
       <div className="about">

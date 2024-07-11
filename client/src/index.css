@@ -169,11 +169,12 @@ a {
 }
 
 .galleryText {
-  font-size: 20px;
-  width: 70vw;
+  font-size: 22px;
+  width: 77vw;
   margin: 0 auto;
 }
 
 .heading {
   font-family: Palatino, URW Palladio L, serif;
+  font-weight: 200;
 }

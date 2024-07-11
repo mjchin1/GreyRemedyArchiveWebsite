@@ -40,7 +40,7 @@ function Gallery() {
 
   return (
   <>
-
+  <br></br> <br></br>
   <h1 className="heading">THANK YOU.</h1>
 
   <div className="galleryText">
