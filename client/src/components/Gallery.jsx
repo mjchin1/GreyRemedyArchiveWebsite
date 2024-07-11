@@ -25,6 +25,15 @@ import SpeckledVase from '../assets/SpeckledVase.jpg';
 import SpeckledMug2 from '../assets/SpeckledMug2.jpg';
 import SpeckledPlaceSetting from '../assets/SpeckledPlaceSetting.jpg';
 import SpeckledJug from '../assets/SpeckledJug.jpg';
+import LightBrownMug from '../assets/LightBrownMug.jpg';
+import LightBrownBowl from '../assets/LightBrownBowl.jpg';
+import LightBrownVase from '../assets/LightBrownVase.jpg';
+import WhiteBowl from '../assets/WhiteBowl.jpg';
+import WhiteSetting from '../assets/WhiteSetting.jpg';
+import WhitePaintSet from '../assets/WhitePaintSet.jpg';
+import BrownBowls from '../assets/BrownBowls.jpg';
+import TallBrownVase from '../assets/SmallBrownVase.jpg';
+import SmallBrownVase from '../assets/TallBrownVase.jpg';
 
 
 function Gallery() {
@@ -42,6 +51,15 @@ function Gallery() {
   <img className="galleryImage" src={BlackBowls2}></img>
   <img className="galleryImage" src={BlackMug}></img>
   <img className="galleryImage" src={BlackPlate}></img>
+  <img className="galleryImage" src={BrownVase1}></img>
+  <img className="galleryImage" src={BrownVase2}></img>
+  <img className="galleryImage" src={BrownVase3}></img>
+  <img className="galleryImage" src={TallBrownVase}></img>
+  <img className="galleryImage" src={BrownBowls}></img>
+  <img className="galleryImage" src={SmallBrownVase}></img>
+  <img className="galleryImage" src={LightBrownMug}></img>
+  <img className="galleryImage" src={LightBrownBowl}></img>
+  <img className="galleryImage" src={LightBrownVase}></img>
   <img className="galleryImage" src={SpeckledSet}></img>
   <img className="galleryImage" src={SpeckledSculpture}></img>
   <img className="galleryImage" src={SpeckledMug1}></img>
@@ -57,9 +75,9 @@ function Gallery() {
   <img className="galleryImage" src={WhiteBowls}></img>
   <img className="galleryImage" src={WhitePlate}></img>
   <img className="galleryImage" src={WhiteMug}></img>
-  <img className="galleryImage" src={BrownVase1}></img>
-  <img className="galleryImage" src={BrownVase2}></img>
-  <img className="galleryImage" src={BrownVase3}></img>
+  <img className="galleryImage" src={WhiteBowl}></img>
+  <img className="galleryImage" src={WhitePaintSet}></img>
+  <img className="galleryImage" src={WhiteSetting}></img>
 
   </div>
 
