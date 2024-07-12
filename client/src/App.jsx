@@ -21,6 +21,7 @@ function App() {
 
       <div>
       <Routes>
+          <Route path="/" element={<Gallery/>}/>
           <Route path="/gallery" element={<Gallery/>}/>
           <Route path="/about" element={<About/>}/>
           <Route path="/press" element={<Press/>}/>
@@ -29,6 +30,9 @@ function App() {
       <br/>
 
       <div className="appFooter">
+
+       <p>© Grey Remedy, 2024. All rights reserved.</p>
+        <a className="instagramLink" target="_blank" href="https://www.instagram.com/greyremedyco/?hl=en">Instagram</a>
       </div>
 
     </>

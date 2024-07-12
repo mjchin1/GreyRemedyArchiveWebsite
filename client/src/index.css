@@ -107,7 +107,6 @@ button:focus-visible {
 }
 
 .galleryBody {
-  /* border: solid;  */
   margin: 0 auto;
   padding-top: 30px;
   width: 95vw;
@@ -125,6 +124,7 @@ nav {
   font-family: "futura-pt", sans-serif;
   font-weight: 500;
   font-style: normal;
+  font-size: 18px;
 }
 
 a {
@@ -139,6 +139,7 @@ a {
   padding-left: 20px;
   padding-right: 20px;
   width: 90vw;
+  font-weight: 400;
 }
 
 .appHeading {
@@ -174,7 +175,79 @@ a {
   margin: 0 auto;
 }
 
-.heading {
+.homeHeading {
   font-family: Palatino, URW Palladio L, serif;
   font-weight: 200;
+  font-size: 55px;
+}
+
+.aboutHeading {
+  font-family: Palatino, URW Palladio L, serif;
+  font-family: "futura-pt", sans-serif;
+  font-weight: 200;
+  font-size: 55px;
+  color: white;
+}
+
+.pressHeading {
+  font-family: "futura-pt", sans-serif;
+  font-weight: 200;
+  font-size: 55px;
+  color: white;
+}
+
+.pressContent {
+  text-align: left;
+  margin-left: 100px;
+}
+.webLink {
+  font-size: 26px;
+}
+
+.appFooter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-size: 18px;
+}
+
+.instagramLink {
+  display: flex;
+  justify-content: center;
+  text-decoration: underline;
+}
+
+.aboutBanner {
+  width: 96vw;
+  height: 400px;
+  margin: 0 auto;
+  background-image: url("./assets/BrownBowls.jpg");
+  background-size: auto;
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.pressBanner {
+  width: 96vw;
+  height: 400px;
+  margin: 0 auto;
+  background-image: url("./assets/PressBanner4.jpg");
+  background-size: auto;
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.breakLine {
+  border-bottom: solid;
+  width: 20vw;
+  margin: 0 auto;
 }

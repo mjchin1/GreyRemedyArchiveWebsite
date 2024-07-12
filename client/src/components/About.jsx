@@ -7,8 +7,10 @@ export default function About() {
 
     <>
     <br></br> <br></br>
-      <h1 className="heading">ABOUT</h1>
-      <br></br> <br></br>
+      <div className="aboutBanner">
+      <h1 className="aboutHeading">ABOUT</h1>
+      </div>
+      <br></br> <br></br> <br/>
 
       <div className="about">
       <div className= "aboutBlock">
