@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import './App.css'
-import { Routes, Route} from 'react-router-dom';
+import { Routes, Route, Link} from 'react-router-dom';
 import Gallery from './components/Gallery';
 import About from './components/About';
 import Press from './components/Press';
@@ -13,7 +13,7 @@ function App() {
     <>
 
       <div className="navBanner">
-      <h2 className="appHeading">Grey Remedy</h2>
+      <Link to = '/' className="appHeading">Grey Remedy</Link>
       <Navigations/>
       </div>
 

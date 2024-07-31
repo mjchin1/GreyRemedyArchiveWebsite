@@ -149,6 +149,10 @@ a {
   margin-top: 12px;
 }
 
+.appHeading:hover {
+  color: black;
+}
+
 .about{
   display: inline-flex;
   align-items: center;
