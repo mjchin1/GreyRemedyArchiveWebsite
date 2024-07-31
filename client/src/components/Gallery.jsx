@@ -41,11 +41,10 @@ function Gallery() {
   return (
   <>
   <br></br> <br></br>
-  <h1 className="homeHeading">THANK YOU.</h1>
-  <div className="breakLine"></div> <br/>
-
   <div className="galleryTextContainer">
   <div className="galleryText">
+  <h1 className="homeHeading">THANK YOU.</h1> 
+  <div className="breakLine"></div>
   <p>While Grey Remedy is no longer in production, I would like to thank all of the customers, collaborators and wholesale partners that supported my work over the years. It has been such a gift to be able to share my craft with you. Although I am now exploring new paths, I’ll always be grateful for the role that Grey Remedy played in my creative journey. </p>
 
   <p>This website will now serve as an archive of my past work.  I hope that you enjoy this gallery of some of my favorite pieces.</p>
