@@ -235,7 +235,7 @@ a {
 }
 
 .aboutBanner {
-  width: 96vw;
+  width: 100vw;
   height: 400px;
   margin: 0 auto;
   background-image: url("./assets/BrownBowls.jpg");
@@ -249,7 +249,7 @@ a {
 }
 
 .pressBanner {
-  width: 96vw;
+  width: 100vw;
   height: 400px;
   margin: 0 auto;
   background-image: url("./assets/PressBanner4.jpg");
@@ -340,7 +340,7 @@ a {
   }
 
   .aboutBanner {
-    width: 70vw;
+    width: 100vw;
     height: 200px;
     margin-bottom: -50px;
   }
@@ -350,7 +350,7 @@ a {
   }
 
   .pressBanner {
-    width: 70vw;
+    width: 100vw;
     height: 200px;
     margin-bottom: -25px;
   }
