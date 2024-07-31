@@ -305,12 +305,57 @@ a {
   }
 
   .appFooter {
-    width: 70vw;
+    width: 75vw;
     height: 190px;
   }
 
   .galleryText {
     font-size: 18px;
+  }
+
+  .about {
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .aboutBlock {
+    width: 75vw;
+    font-size: 14px;
+  }
+
+  .aboutPageImage {
+    width: 75vw;
+    margin: 0 auto;
+  }
+
+  .aboutBanner {
+    width: 80vw;
+    height: 200px;
+    margin-bottom: -50px;
+  }
+
+  .aboutHeading {
+    font-size: 35px;
+  }
+
+  .pressBanner {
+    width: 80vw;
+    height: 200px;
+    margin-bottom: -25px;
+  }
+
+  .pressHeading {
+    font-size: 35px;
+  }
+
+  .pressContent {
+    font-size: 14px;
+    margin: 0 auto;
+    width: 75vw;
+  }
+
+  .webLink {
+    font-size: 16px;
   }
 
 }
