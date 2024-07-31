@@ -126,7 +126,7 @@ button:focus-visible {
 
 .appFooter {
   height: 400px;
-  width: 95vw;
+  width: 100vw;
   margin: 0 auto;
   background-color: #f2f2f2;
 }
