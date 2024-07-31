@@ -270,7 +270,7 @@ a {
 
 .navLink {
   width: 21px;
-  margin-bottom: -3px;
+  margin-bottom: -4px;
 }
 
 @media screen and (max-width: 500px) {
@@ -305,7 +305,7 @@ a {
   }
 
   .appFooter {
-    width: 75vw;
+    width: 70vw;
     height: 190px;
   }
 
@@ -319,17 +319,17 @@ a {
   }
 
   .aboutBlock {
-    width: 75vw;
+    width: 70vw;
     font-size: 14px;
   }
 
   .aboutPageImage {
-    width: 75vw;
+    width: 70vw;
     margin: 0 auto;
   }
 
   .aboutBanner {
-    width: 80vw;
+    width: 70vw;
     height: 200px;
     margin-bottom: -50px;
   }
@@ -339,7 +339,7 @@ a {
   }
 
   .pressBanner {
-    width: 80vw;
+    width: 70vw;
     height: 200px;
     margin-bottom: -25px;
   }

@@ -11,7 +11,7 @@ function App() {
 
   return (
     <>
-
+      <div id="Root">
       <div className="navBanner">
       <Link to = '/' className="appHeading">Grey Remedy</Link>
       <Navigations/>
@@ -33,6 +33,8 @@ function App() {
 
        <p>© Grey Remedy, 2024. All rights reserved.</p>
         <a className="instagramLink" target="_blank" href="https://www.instagram.com/greyremedyco/?hl=en">Instagram</a>
+      </div>
+
       </div>
 
     </>
