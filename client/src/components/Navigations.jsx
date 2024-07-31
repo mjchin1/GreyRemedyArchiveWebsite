@@ -7,7 +7,7 @@ export default function Navigations() {
             <Link to = '/'>HOME</Link>
             <Link to = '/about'>ABOUT</Link>
             <Link to = '/press'>PRESS</Link>
-            <a href="https://www.instagram.com/greyremedyco/?hl=en"><img className="navLink" src={InstaLogo}/></a>
+            <a href="https://www.instagram.com/greyremedyco/?hl=en" target="_blank"><img className="navLink" src={InstaLogo}/></a>
 
         </nav>
     );

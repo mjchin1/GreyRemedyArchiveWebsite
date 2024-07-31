@@ -272,3 +272,38 @@ a {
   width: 21px;
   margin-bottom: -3px;
 }
+
+@media screen and (max-width: 500px) {
+  .galleryImage {
+    width: 70vw;
+    height: auto;
+  }
+  .navBanner {
+    width: 70vw;
+    font-size: 20px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+  }
+
+  nav {
+  font-size: 18px;
+  margin: 0 auto;
+  }
+
+  .appHeading {
+    font-size: 35px;
+    margin: 0 auto;
+  }
+
+  .homeHeading {
+    font-size: 35px;
+  }
+
+  .appFooter {
+    width: 90vw;
+    height: 250px;
+  
+  }
+}
