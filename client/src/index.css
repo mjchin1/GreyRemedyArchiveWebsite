@@ -275,7 +275,7 @@ a {
 
 @media screen and (max-width: 500px) {
   .galleryImage {
-    width: 70vw;
+    width: 90vw;
     height: auto;
   }
   .navBanner {
