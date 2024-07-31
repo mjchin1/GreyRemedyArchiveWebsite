@@ -262,6 +262,20 @@ a {
   align-items: center;
 }
 
+/* .homeBanner {
+  width: 100vw;
+  height: 400px;
+  margin: 0 auto;
+  background-image: url("./assets/WhiteAssortment1.jpg");
+  background-size: auto;
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: 58%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} */
+
 .breakLine {
   border-bottom: solid;
   width: 20vw;
@@ -309,13 +323,13 @@ a {
     height: 190px;
   }
 
-  .galleryTextContainer {
+  /* .galleryTextContainer {
     width: 100vw;
     margin: 0 auto;
     padding-top: 16px;
     padding-bottom: 16px;
     background-color: #BBBBBB;
-  }
+  } */
 
   .galleryText {
     font-size: 18px;
@@ -344,6 +358,12 @@ a {
     height: 200px;
     margin-bottom: -50px;
   }
+
+  /* .homeBanner {
+    width: 100vw;
+    height: 200px;
+  } */
+
 
   .aboutHeading {
     font-size: 35px;

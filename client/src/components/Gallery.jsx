@@ -41,6 +41,7 @@ function Gallery() {
   return (
   <>
   <br></br> <br></br>
+  <div className="homeBanner"></div>
   <div className="galleryTextContainer">
   <div className="galleryText">
   <h1 className="homeHeading">THANK YOU.</h1> 
