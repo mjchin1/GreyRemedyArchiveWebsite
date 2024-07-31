@@ -299,11 +299,18 @@ a {
 
   .homeHeading {
     font-size: 35px;
+    width: 70vw;
+    margin: 0 auto;
+    margin-top: 20px;
   }
 
   .appFooter {
-    width: 90vw;
-    height: 250px;
-  
+    width: 70vw;
+    height: 190px;
   }
+
+  .galleryText {
+    font-size: 18px;
+  }
+
 }
