@@ -255,3 +255,8 @@ a {
   width: 20vw;
   margin: 0 auto;
 }
+
+.navLink {
+  width: 21px;
+  margin-bottom: -3px;
+}
