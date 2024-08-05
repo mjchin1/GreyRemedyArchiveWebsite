@@ -212,6 +212,13 @@ a {
   color: white;
 }
 
+.homeBannerText {
+  font-family: "futura-pt", sans-serif;
+  font-weight: 200;
+  font-size: 55px;
+  color: white;
+}
+
 .pressContent {
   text-align: left;
   margin-left: 100px;
@@ -262,11 +269,11 @@ a {
   align-items: center;
 }
 
-/* .homeBanner {
+.homeBanner {
   width: 100vw;
   height: 400px;
   margin: 0 auto;
-  background-image: url("./assets/WhiteAssortment1.jpg");
+  background-image: url("./assets/SpeckledPlaceSetting.jpg");
   background-size: auto;
   background-size: cover;
   background-position-x: center;
@@ -274,7 +281,7 @@ a {
   display: flex;
   justify-content: center;
   align-items: center;
-} */
+}
 
 .breakLine {
   border-bottom: solid;
@@ -359,10 +366,10 @@ a {
     margin-bottom: -50px;
   }
 
-  /* .homeBanner {
+  .homeBanner {
     width: 100vw;
     height: 200px;
-  } */
+  }
 
 
   .aboutHeading {
@@ -378,6 +385,10 @@ a {
   .pressHeading {
     font-size: 35px;
   }
+  .homeBannerText {
+    font-size: 28px;
+  }
+
 
   .pressContent {
     font-size: 14px;
