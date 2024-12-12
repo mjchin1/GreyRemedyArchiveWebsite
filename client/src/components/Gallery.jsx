@@ -34,6 +34,9 @@ import WhitePaintSet from '../assets/WhitePaintSet.jpg';
 import BrownBowls from '../assets/BrownBowls.jpg';
 import TallBrownVase from '../assets/SmallBrownVase.jpg';
 import SmallBrownVase from '../assets/TallBrownVase.jpg';
+import MedBrownVase1 from '../assets/MedBrownVase1.jpg';
+import MedBrownVase2 from '../assets/MedBrownVase2.jpg';
+import MedBrownVase3 from '../assets/MedBrownVase3.jpg';
 
 
 function Gallery() {
@@ -77,6 +80,9 @@ function Gallery() {
   <img className="galleryImage" src={LightBrownMug}></img>
   <img className="galleryImage" src={LightBrownBowl}></img>
   <img className="galleryImage" src={LightBrownVase}></img>
+  <img className="galleryImage" src={MedBrownVase1}></img>
+  <img className="galleryImage" src={MedBrownVase2}></img>
+  <img className="galleryImage" src={MedBrownVase3}></img>
   <img className="galleryImage" src={SpeckledSet}></img>
   <img className="galleryImage" src={SpeckledSculpture}></img>
   <img className="galleryImage" src={SpeckledMug1}></img>
