@@ -272,7 +272,7 @@ a {
 
 .homeBanner {
   width: 100vw;
-  height: 400px;
+  height: 88vh;
   margin: 0 auto;
   background-image: url("./assets/SpeckledPlaceSetting.jpg");
   background-size: auto;
