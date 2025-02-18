@@ -32,6 +32,7 @@ function App() {
       <div className="appFooter">
 
        <p>© Grey Remedy, 2024. All rights reserved.</p>
+       <p>Photos by Melissa J. Chin.</p>
         <a className="instagramLink" target="_blank" href="https://www.instagram.com/greyremedyco/?hl=en">Instagram</a>
       </div>
 
