@@ -79,6 +79,14 @@ button:focus-visible {
   }
 }
 
+@keyframes appear {
+  from {
+    opacity: 0}
+  to {
+    opacity: 1
+  }
+}
+
 .gallerySquare {
   display: inline-flex;
   border: solid;
@@ -103,6 +111,9 @@ button:focus-visible {
   margin-right: 10px;
   margin-bottom: 20px;
   object-fit: cover;
+  animation: appear; 
+  animation-timeline: view();
+  animation-range: entry 10% cover 40%;
 }
 
 .navBanner {
